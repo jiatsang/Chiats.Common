@@ -1,0 +1,1 @@
+﻿SQL Commnad Helper & Common Function 
